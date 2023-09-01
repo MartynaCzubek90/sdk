@@ -1,0 +1,2 @@
+# sdk
+pakiet natywny install 
